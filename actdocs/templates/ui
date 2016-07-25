@@ -125,7 +125,7 @@
 
 <!--
 &nbsp;&nbsp;&nbsp;-->
-<a href="http://www.perl.careers" target="_new"><img height="40px" src="[% make_uri_info('images/logos/perl-careers.png') %]" alt="Perl Careers" title="Perl Recrtuitment" /></a>
+<!-- <a href="http://www.perl.careers" target="_new"><img height="40px" src="[% make_uri_info('images/logos/perl-careers.png') %]" alt="Perl Careers" title="Perl Recrtuitment" /></a>
 -->
 
 <!--
