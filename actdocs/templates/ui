@@ -34,7 +34,7 @@
   <div id="header">
     [%- IF title -%]<h1>[% title  %]</h1>[%- END -%]
     <span class="tagline alignleft">LPW is the United Kingdom Perl Workshop</span><br /> 
-    <span class="date alignright">Saturday 12th December 2015</span>
+    <span class="date alignright">Saturday 3rd December 2016</span>
   </div>
 
 <div id="inner-wrapper">
