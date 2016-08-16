@@ -53,7 +53,7 @@
        [% content %]
 
         <div style="align: right">
-          <a href="https://twitter.com/intent/tweet?button_hashtag=lpw2015" class="twitter-hashtag-button" data-related="shadowcat_mdk">Tweet #lpw2015</a>
+          <a href="https://twitter.com/intent/tweet?button_hashtag=lpw2015" class="twitter-hashtag-button" data-related="shadowcat_mdk">Tweet #lpw2016</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
         </div>
      </div>
@@ -100,10 +100,10 @@
 <a href="http://www.exonetric.com" target="_new"><img height="40px"  src="[% make_uri_info('images/logos/exonetric.png') %]" alt="Exonetric" title="Reliable hosting solutions"/></a>
 -->
 
-<!--
+
 &nbsp;&nbsp;&nbsp;
 <a href="https://geekuni.com/" target="_new"><img height="40px" class="sponsorsimage" src="[% make_uri_info('images/logos/geekuni.png') %]" alt="geek University" title="Professional Perl Training" /></a>
--->
+
 
 &nbsp;&nbsp;&nbsp;
 <a href="http://mag-sol.com/" target="_new"><img height="40px" class="sponsorsimage" src="[% make_uri_info('images/logos/magnum.png') %]" alt="magnum Solutions" title="Professional Perl consultancy and training" /></a>
