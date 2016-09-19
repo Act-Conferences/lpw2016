@@ -113,25 +113,19 @@
 <!-- <a href="http://www.lokku.com/jobs" target="_new"><img height="40px" src="[% make_uri_info('images/logos/nestoria-small.png') %]" alt="Nestoria" title="Vertical Search for Properties" /></a>
 -->
 
-<!--
 &nbsp;&nbsp;&nbsp;
 <a href="http://www.opusvl.com" target="_new"><img height="40px" src="[% make_uri_info('images/logos/opusvl.jpg') %]" alt="OpusVL" title="Business Processing Systems" /></a>
--->
 
 <!--
 &nbsp;&nbsp;&nbsp; -->
 <!-- <a href="http://oreilly.com/" target="_new"><img height="40px" class="sponsorsimage" src="[% make_uri_info('images/logos/oreilly.jpg') %]" alt="O'reilly Books" title="O'Reilly Books" /></a>
 -->
 
-<!--
-&nbsp;&nbsp;&nbsp;-->
-<!-- <a href="http://www.perl.careers" target="_new"><img height="40px" src="[% make_uri_info('images/logos/perl-careers.png') %]" alt="Perl Careers" title="Perl Recrtuitment" /></a>
--->
+&nbsp;&nbsp;&nbsp;
+<a href="http://www.perl.careers" target="_new"><img height="40px" src="[% make_uri_info('images/logos/perl-careers.png') %]" alt="Perl Careers" title="Perl Recrtuitment" /></a>
 
-<!--
 &nbsp;&nbsp;&nbsp;
 <a href="http://www.sciencephoto.com" target="_new"><img height="40px" src="[% make_uri_info('images/logos/spl.jpg') %]" alt="Science Photo Library" title="The leading provider of science images and footage" /></a>
--->
 
 &nbsp;&nbsp;&nbsp;
 <a href="http://shadow.cat" target="_new"><img height="40px" class="sponsorsimage" src="[% make_uri_info('images/logos/shadowcat.png') %]" alt="Shadowcat
@@ -151,19 +145,15 @@
 <a href="http://enlightenedperl.org/" target="_new"><img height="40px" class="sponsorsimage" src="[% make_uri_info('images/logos/epo.png') %]" alt="Enlightened Perl Organisation" title="Non profit association for Perl promotion" /></a>
 
 &nbsp;&nbsp;&nbsp;
-
 <a href="http://flossuk.org/" target="_new"><img height="40px" class="sponsorsimage" src="[% make_uri_info('images/logos/flossuk.png') %]" alt="FlossUK" title="Non profit association for Unix-based promotion" /></a>
 
 &nbsp;&nbsp;&nbsp;
-
 <a href="http://perl6.org/" target="_new"><img height="40px" src="[% make_uri_info('images/logos/perl6.png') %]" alt="Perl6 Community" title="Non profit association for Perl promotion" /></a>
 
 &nbsp;&nbsp;&nbsp;
-
 <a href="http://perlweekly.com/" target="_new"><img height="40px" src="[% make_uri_info('images/logos/perl_weekly.png') %]" alt="Perl Weekly" title="A weekly source of Perl News" /></a>
 
 &nbsp;&nbsp;&nbsp;
-
 <a href="http://www.westminster.ac.uk/" target="_new"><img height="40px" class="sponsorsimage" src="[% make_uri_info('images/logos/westminster.gif') %]" alt="" title="university of Westminster" /></a>
 
 </span>
