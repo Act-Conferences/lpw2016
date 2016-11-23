@@ -75,15 +75,11 @@
 <a href="http://www.2ndQuadrant.com/en/" target="_new"><img class="sponsorsimage"  src="[% make_uri_info('images/logos/2ndquadrant.png') %]" alt="2nd Quadrant" title="Open Source PostgresSQL solutions"/></a> 
 -->
 
-<!-- 
 &nbsp;&nbsp;&nbsp;
 <a href="http://booking.com/jobs" target="_new"><img height="40px"  src="[% make_uri_info('images/logos/booking.png') %]" alt="Booking.com" title="Online Hotel Reservations"/></a> 
--->
 
-<!--
 &nbsp;&nbsp;&nbsp;
 <a href="http://www.cv-library.co.uk/" target="_new"><img height="40px" src="[% make_uri_info('images/logos/cv.jpg') %]" alt="CV Library" title="Professional CV" /></a>
--->
 
 &nbsp;&nbsp;&nbsp;
 <a href="http://www.eligo.co.uk/" target="_new"><img height="40px" src="[% make_uri_info('images/logos/eligo.jpg') %]" alt="Eligo" title="Professional Recruitment" /></a>
